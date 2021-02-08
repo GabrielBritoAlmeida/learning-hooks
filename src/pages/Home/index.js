@@ -19,6 +19,10 @@ function Home() {
           <li>
             <Link to="/hook-unload">Hook - useUnload </Link>
           </li>
+
+          <li>
+            <Link to="/hook-persisted">Hook - usePersistedState </Link>
+          </li>
         </ul>
       </Container>
     </>
