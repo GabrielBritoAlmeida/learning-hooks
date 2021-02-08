@@ -15,6 +15,10 @@ function Home() {
           <li>
             <Link to="/hook-click-outside">Hook - useClickOutside </Link>
           </li>
+
+          <li>
+            <Link to="/hook-unload">Hook - useUnload </Link>
+          </li>
         </ul>
       </Container>
     </>
